@@ -14,46 +14,48 @@
 
 .main {
     position: relative;
-    margin-top: 30px;
+    margin-top: 50px;
+    
 }
 
 
 .trafficBody {
     background-color: black;
-    width: 250px;
+    width: 200px;
     height: 350px;
-    margin: 0px auto;
+    margin: 20px auto;
+    
 }
 
 .red {
     background-color: red;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin: 20px auto;
     border-radius: 70px;
 }
 
 .orange {
     background-color: orange;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin: 20px auto;
     border-radius: 70px;
 }
 
 .green {
     background-color: green;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin: 20px auto;
     border-radius: 70px;
 }
 
 .glow {
-    width: 80px;
-    height: 80px;
-    margin: 0px auto;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
     border-radius: 50px;
     box-shadow: 0 0 10px rgba(247, 205, 16, 0.952), 0 0 50px rgba(247, 205, 16, 0.952), 0 0 90px rgba(247, 205, 16, 0.952);
-    animation: glow 2s infinite alternate;
+    
 }
